@@ -1,0 +1,15 @@
+body {
+  background-color: #000;
+  color: #FFF;
+  font-size: 12;
+}
+
+#textArea {
+  width: 99%;
+  height: 4em;
+  font-size: 2em;
+}
+
+#myDiv {
+  font-size: 4em;
+}
